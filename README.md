@@ -7,6 +7,7 @@
 * [Spring](https://spring.io/projects/spring-data) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Postman](https://www.postman.com/) - Used for testing API
+
 ## About technologies used in the project
 
 * Postman
@@ -34,12 +35,9 @@ of servers that host applications accessed by means of a request-response progra
 Although servlets can respond to any type of request, 
 they are commonly used to extend the applications hosted by web servers.
 
-## Screenshots
-![Example screenshot](C:\Users\Asus\OneDrive\Pictures\Screenshots)
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 
 
