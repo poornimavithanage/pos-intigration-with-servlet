@@ -88,7 +88,7 @@ public class OrderServlet extends HttpServlet {
                             new BigDecimal(unitPrice[i])));
                 }
                 orderBO.placeOrder(new OrderDTO(orderId,orderDate,customerId),orderDetailList);
-                response.sendError(HttpServletResponse.SC_BAD_REQUEST);
+                response.setStatus(HttpServletResponse.SC_CREATED);
                 out.println("Order placed successfully");
             } else {
                 response.sendError(HttpServletResponse.SC_BAD_REQUEST);
