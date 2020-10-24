@@ -1,8 +1,5 @@
 # POS System [Layered-Spring Data JPA with Maven-Servlet API]
 
-# POS System [Layered-Spring Data JPA with Maven]
-
-
 In this **POS System** has all the functionalities of a POS system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
 
     * Manage customers
