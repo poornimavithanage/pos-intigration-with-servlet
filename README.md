@@ -14,7 +14,6 @@ In this **POS System** has all the functionalities of a POS system, like custome
 * [Project Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.12) - Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
                                                                                           Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables and etc;
 * [Spring Test Context Framework](https://mvnrepository.com/artifact/org.springframework/spring-test/5.2.8.RELEASE)                                                                                          
-* [JUnit Test](https://mvnrepository.com/artifact/junit/junit/4.13) - JUnit is a unit testing framework for Java
 * [Spring Data JPA](https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa/2.3.3.RELEASE)  
 * [JUNIT Jupiter API](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.7.0) - Module "junit-jupiter-api" of JUnit 5.
 * [Java Servlet API](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/4.0.1)
